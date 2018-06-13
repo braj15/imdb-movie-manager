@@ -46,6 +46,10 @@ Following instructions will help you get a copy of the project up and running on
 * **Done** : Check for the `movie_info.xlsx` file in the same directory. Open it and use as you like.
 
 
+   ![xlsheet](https://user-images.githubusercontent.com/37156545/41362355-cd5da262-6f4e-11e8-84ee-d4df1d500ff3.png)
+
+
+
 ## Issue
 
 If the program gets stuck while running, check your internet connection and do Steps 2 & 3 of *Usage* section again.
