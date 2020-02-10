@@ -1,6 +1,6 @@
 # imdb-movie-manager
 
-A **Python** script for collecting and writing information `[Movie name, Imdb rating, Genre, Year, Actors, Director, Running time]` about movies (*in your local directory*) in an **Excel Table** where you can `Sort`, `Filter` etc. as you like, and you can go straight **to the movie folder** from the excel sheet just by **clicking on the corresponding movie name**.
+A **Python** script for collecting and writing information `[Movie name, Imdb rating, Genre, Year, Actors, Director, Running time]` about movies (*in your local directory*) in an **Excel Table** where you can `Sort`, `Filter` etc. as you like and you can go straight **to the movie folder** from the excel sheet just by **clicking on the corresponding movie name**.
 
 ![xl-page](https://user-images.githubusercontent.com/37156545/41292784-3340ce4e-6e71-11e8-880f-c1a15cda11a0.png)
 
